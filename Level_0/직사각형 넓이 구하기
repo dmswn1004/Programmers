@@ -10,6 +10,7 @@ class Solution {
         }
         Arrays.sort(x);
         Arrays.sort(y);
+        
         int answer = (x[3] - x[0])*(y[3]-y[0]);
         return answer;
     }
