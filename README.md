@@ -19,6 +19,11 @@
 |[안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80.java)|JAVA|
 |[삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4%20(2))|JAVA|
 |[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%99%B8%EA%B3%84%EC%96%B4%20%EC%82%AC%EC%A0%84)|JAVA|
+|[저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)||JAVA|
+|[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)||JAVA|
+|[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)||JAVA|
+|[유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)||JAVA|
+
 
 
 
