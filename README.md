@@ -16,7 +16,7 @@
 |[최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20(2))|JAVA|
 |[다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EB%8B%A4%ED%95%AD%EC%8B%9D%20%EB%8D%94%ED%95%98%EA%B8%B0)|JAVA|
 |[숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%88%A8%EC%96%B4%EC%9E%88%EB%8A%94%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EB%8D%A7%EC%85%88%20(2))|JAVA|
-|[안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|[]()|JAVA|
+|[안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80.java)|JAVA|
 |[삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%82%BC%EA%B0%81%ED%98%95%EC%9D%98%20%EC%99%84%EC%84%B1%EC%A1%B0%EA%B1%B4%20(2))|JAVA|
 |[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%99%B8%EA%B3%84%EC%96%B4%20%EC%82%AC%EC%A0%84)|JAVA|
 
