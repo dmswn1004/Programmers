@@ -5,7 +5,6 @@ class Solution {
     }
     
     public int solution(int[][] dots) {
-        int answer = 0;
 //         if(inclination(dots[0],dots[1]) == inclination(dots[2],dots[3]) || inclination(dots[0],dots[2])==inclination(dots[1],dots[3])||inclination(dots[0],dots[3])==inclination(dots[1],dots[2]))
 //             return 1;
            if(inclination(dots[0],dots[1]) == inclination(dots[2],dots[3]))
@@ -15,6 +14,6 @@ class Solution {
            if(inclination(dots[0],dots[3]) == inclination(dots[1],dots[2]))
             return 1;
         
-        return answer;
+           return 0;
     }
 }
