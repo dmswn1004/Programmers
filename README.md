@@ -24,10 +24,10 @@
 |[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%ED%8F%89%ED%96%89.java)|JAVA|
 |[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EA%B2%B9%EC%B9%98%EB%8A%94%20%EC%84%A0%EB%B6%84%EC%9D%98%20%EA%B8%B8%EC%9D%B4.java)|JAVA|
 |[유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%9C%A0%ED%95%9C%EC%86%8C%EC%88%98%20%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0.java)|JAVA|
-|[특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)|[풀이](   )|JAVA|
-|[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)|[풀이(  )]|JAVA|
-|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|[풀이(  )]|JAVA|
-|[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|[풀이(  )]|JAVA|
+|[특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)||JAVA|
+|[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)||JAVA|
+|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)||JAVA|
+|[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)||JAVA|
 
 <!-- ## 💛 Level 1 -->
 
