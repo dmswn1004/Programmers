@@ -1,6 +1,7 @@
 ![](https://velog.velcdn.com/images/dmswn1004/post/4b3b1ee1-4b29-4321-a906-46112b389ce4/image.jpeg)
 
 # 🔥 [JAVA] 프로그래머스 코딩테스트 문제 code 저장소
+: 개인의 풀이이기 때문에 완벽한 정답이 아니기 때문에 참고만 해주세요! 🍄
 
 - [Level 0](#%EF%B8%8F-level-0) & [프로그래머스 입문 page](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&page=1)
 <br>
@@ -23,7 +24,10 @@
 |[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%ED%8F%89%ED%96%89.java)|JAVA|
 |[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EA%B2%B9%EC%B9%98%EB%8A%94%20%EC%84%A0%EB%B6%84%EC%9D%98%20%EA%B8%B8%EC%9D%B4.java)|JAVA|
 |[유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%9C%A0%ED%95%9C%EC%86%8C%EC%88%98%20%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0.java)|JAVA|
-
+|[특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)|[풀이](   )|JAVA|
+|[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)|[풀이(  )]|JAVA|
+|[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|[풀이(  )]|JAVA|
+|[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|[풀이(  )]|JAVA|
 
 <!-- ## 💛 Level 1 -->
 
