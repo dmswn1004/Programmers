@@ -21,7 +21,7 @@
 |[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%99%B8%EA%B3%84%EC%96%B4%20%EC%82%AC%EC%A0%84)|JAVA|
 |[저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%A0%80%EC%A3%BC%EC%9D%98%20%EC%88%AB%EC%9E%90%203.java)|JAVA|
 |[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%ED%8F%89%ED%96%89.java)|JAVA|
-|[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)||JAVA|
+|[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EA%B2%B9%EC%B9%98%EB%8A%94%20%EC%84%A0%EB%B6%84%EC%9D%98%20%EA%B8%B8%EC%9D%B4.java)|JAVA|
 |[유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)||JAVA|
 
 
