@@ -28,6 +28,11 @@
 |[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EB%93%B1%EC%88%98%20%EB%A7%A4%EA%B8%B0%EA%B8%B0.java)|JAVA|
 |[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%98%B9%EC%95%8C%EC%9D%B4%20(1).java)|JAVA|
 |[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5%3F.java)|JAVA|
+|[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)||JAVA|
+|[이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885)||JAVA|
+|[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)||JAVA|
+|[k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)||JAVA|
+
 
 <!-- ## 💛 Level 1 -->
 
