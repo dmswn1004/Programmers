@@ -33,7 +33,7 @@
 |[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/A%EB%A1%9C%20B%20%EB%A7%8C%EB%93%A4%EA%B8%B0.java)|JAVA|
 |[k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/k%EC%9D%98%20%EA%B0%9C%EC%88%98.java)|JAVA|
 |[종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%A2%85%EC%9D%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.java)|JAVA|
-|[연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|[풀이]()|JAVA|
+|[연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%97%B0%EC%86%8D%EB%90%9C%20%EC%88%98%EC%9D%98%20%ED%95%A9.java)|JAVA|
 
 
 <!-- ## 💛 Level 1 -->
