@@ -24,7 +24,7 @@
 |[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%ED%8F%89%ED%96%89.java)|JAVA|
 |[겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EA%B2%B9%EC%B9%98%EB%8A%94%20%EC%84%A0%EB%B6%84%EC%9D%98%20%EA%B8%B8%EC%9D%B4.java)|JAVA|
 |[유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%9C%A0%ED%95%9C%EC%86%8C%EC%88%98%20%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0.java)|JAVA|
-|[특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)||JAVA|
+|[특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%ED%8A%B9%EC%9D%B4%ED%95%9C%20%EC%A0%95%EB%A0%AC.java)|JAVA|
 |[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EB%93%B1%EC%88%98%20%EB%A7%A4%EA%B8%B0%EA%B8%B0.java)|JAVA|
 |[옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EC%98%B9%EC%95%8C%EC%9D%B4%20(1).java)|JAVA|
 |[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5%3F.java)|JAVA|
