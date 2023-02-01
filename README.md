@@ -1,12 +1,12 @@
 ![](https://velog.velcdn.com/images/dmswn1004/post/4b3b1ee1-4b29-4321-a906-46112b389ce4/image.jpeg)
 
-# 🔥 [JAVA] 프로그래머스 코딩테스트 문제 code 저장소
+# 🔥 [JAVA & Python3] 프로그래머스 코딩테스트 문제 code 저장소
 : 개인의 풀이이기 때문에 완벽한 정답이 아니기 때문에 참고만 해주세요! 🍄
 
-- [Level 0](#%EF%B8%8F-level-0) & [프로그래머스 입문 page](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&page=1)
-<br>
+- [Level 0](#%EF%B8%8F-level-0) 🔎 JAVA
+- [Level 1](#-level-1) 🔎 Python3
 
-👉  [code and explanation](https://velog.io/@dmswn1004)
+<br>
 
 ## ❤️ Level 0
 |   **📝 문제**   |   **🛠️ 풀이**   | **💡 언어** |
@@ -37,7 +37,10 @@
 |[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EB%8B%A4%EC%9D%8C%EC%97%90%20%EC%98%AC%20%EC%88%AB%EC%9E%90.java)|JAVA|
 |[문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%80%EA%B8%B0.java)|JAVA|
 
-<!-- ## 💛 Level 1 -->
+<br>
 
+## 💛 Level 1
+|   **📝 문제**   |   **🛠️ 풀이**   | **💡 언어** |
+|:--------------:|:-------------:|:-------:|
 
 
