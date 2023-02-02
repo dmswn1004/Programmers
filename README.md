@@ -49,5 +49,6 @@
 |[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|Python3|
 |[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python3|
 |[정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.py)|Python3|
-|[x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|[](https://github.com/dmswn1004/Programmers/blob/main/Level_1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.py)
+|[x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.py)|Python3|
+|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925)|[풀이]|Python3|
 
