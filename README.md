@@ -61,3 +61,4 @@
 |[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0.py)|Python3|
 |[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%A0%9C%EC%9D%BC%20%EC%9E%91%EC%9D%80%20%EC%88%98%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.py)|Python3|
 |[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python3|
+|[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python3|
