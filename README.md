@@ -64,3 +64,4 @@
 |[없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python3|
 |[가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.py)|Python3|
 |[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.py)|Python3|
+|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EB%82%B4%EC%A0%81.py)|Python3|
