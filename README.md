@@ -68,3 +68,4 @@
 |[가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EA%B0%80%EC%9A%B4%EB%8D%B0%20%EA%B8%80%EC%9E%90%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.py)|Python3|
 |[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.py)|Python3|
 |[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EB%82%B4%EC%A0%81.py)|Python3|
+|[문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.py)|Python3|
