@@ -4,10 +4,7 @@
 : 개인의 풀이이기 때문에 완벽한 정답이 아니기 때문에 참고만 해주세요! 🍄
 
 - [SQL](https://github.com/dmswn1004/Programmers/tree/main/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit#readme) 🔎 MySQL
-- [코딩테스트 고득점 Kit](https://github.com/dmswn1004/Programmers/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit#readme) 🔎 Python3
-
-<br>
-
+- [코딩테스트 고득점 Kit](https://github.com/dmswn1004/Programmers/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit#readme) 🔎 Python3 
 - [Level 0](#%EF%B8%8F-level-0) 🔎 JAVA
 - [Level 1](#-level-1) 🔎 Python3
 
@@ -77,3 +74,4 @@
 |[행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.py)|Python3|
 |[직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.py)|Python3|
 |[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)|Python3|
+Python3
