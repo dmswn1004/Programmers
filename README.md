@@ -1,7 +1,6 @@
 ![](https://velog.velcdn.com/images/dmswn1004/post/4b3b1ee1-4b29-4321-a906-46112b389ce4/image.jpeg)
 
-# 🔥 [JAVA & Python3 & MySQL] 프로그래머스 코딩테스트 문제 code 저장소
-: 개인의 풀이이기 때문에 완벽한 정답이 아니기 때문에 참고만 해주세요! 🍄
+# 🔥 [JAVA & Python3 & JavaScript & MySQL] 프로그래머스 코딩테스트 문제 code 저장소
 
 - [SQL](https://github.com/dmswn1004/Programmers/tree/main/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit#readme) 🔎 MySQL
 - [코딩테스트 고득점 Kit](https://github.com/dmswn1004/Programmers/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit#readme) 🔎 Python3 
@@ -46,7 +45,7 @@
 |:--------------:|:-------------:|:-------:|
 |[약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.py)|Python3|
 |[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.py)|Python3|
-|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|Python3|
+|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.py), [JS풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.js)|Python3, JavaScript|
 |[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.py)|Python3|
 |[자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EC%9E%90%EC%97%B0%EC%88%98%20%EB%92%A4%EC%A7%91%EC%96%B4%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|Python3|
 |[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|[풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.py)|Python3|
