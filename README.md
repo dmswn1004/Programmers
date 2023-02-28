@@ -2,7 +2,7 @@
 
 # 🔥 [JAVA & Python3 & JavaScript & MySQL] 프로그래머스 코딩테스트 문제 code 저장소
 
-- [SQL](https://github.com/dmswn1004/Programmers/tree/main/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit#readme) 🔎 MySQL
+- [SQL 고득점 Kit](https://github.com/dmswn1004/Programmers/tree/main/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit#readme) 🔎 MySQL
 - [코딩테스트 고득점 Kit](https://github.com/dmswn1004/Programmers/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit#readme) 🔎 Python3 
 - [Level 0](#%EF%B8%8F-level-0) 🔎 JAVA
 - [Level 1](#-level-1) 🔎 Python3
