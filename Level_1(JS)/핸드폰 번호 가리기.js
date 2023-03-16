@@ -5,5 +5,5 @@ function solution(phone_number) {
 
 function solution(phone_number) {
     var answer = phone_number.slice(-4);
-    return  "*".repeat(phone_number.length-4,) + answer;
+    return  "*".repeat(phone_number.length-4) + answer;
 }
