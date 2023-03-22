@@ -76,4 +76,4 @@
 |[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.js)|JavaScript|
 |[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.js)|JavaScript|
 |[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)|JavaScript|
-
+|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%98%88%EC%82%B0.js)|JavaScript|
