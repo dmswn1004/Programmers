@@ -79,3 +79,4 @@
 |[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%98%88%EC%82%B0.js)|JavaScript|
 |[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.js)|JavaScript|
 |[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.js)|JavaScript|
+
