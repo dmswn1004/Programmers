@@ -80,4 +80,4 @@
 |[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.js)|JavaScript|
 |[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%82%BC%EC%B4%9D%EC%82%AC.js)|JavaScript|
 |[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.js)|JavaScript|
-
+|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.js)|JavaScript|
