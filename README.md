@@ -81,3 +81,5 @@
 |[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%82%BC%EC%B4%9D%EC%82%AC.js)|JavaScript|
 |[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.js)|JavaScript|
 |[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.js)|JavaScript|
+|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.js)|JavaScript|
+|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.js)|JavaScript|
