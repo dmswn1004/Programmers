@@ -87,3 +87,4 @@
 |[크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4.js)|JavaScript|
 |[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.js)|JavaScript|
 |[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.js)|JavaScript|
+|[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.js)|JavaScript|
