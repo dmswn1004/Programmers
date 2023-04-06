@@ -88,3 +88,4 @@
 |[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.js)|JavaScript|
 |[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C.js)|JavaScript|
 |[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C.js)|JavaScript|
+|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.js)|JavaScript|
