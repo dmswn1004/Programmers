@@ -91,3 +91,4 @@
 |[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90.js)|JavaScript|
 |[2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/2016%EB%85%84.js)|JavaScript|
 |[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=javascript)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%ED%8F%B0%EC%BC%93%EB%AA%AC.js)|JavaScript|
+|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)|JavaScript|
