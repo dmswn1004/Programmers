@@ -92,3 +92,4 @@
 |[2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/2016%EB%85%84.js)|JavaScript|
 |[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=javascript)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%ED%8F%B0%EC%BC%93%EB%AA%AC.js)|JavaScript|
 |[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)|JavaScript|
+
