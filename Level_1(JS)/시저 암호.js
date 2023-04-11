@@ -1,4 +1,3 @@
-// 풀이가 조금 비효율적인 것 같음....
 function solution(s, n) {
     s = s.split("");
     for(var i = 0; i < s.length; i++){
@@ -6,20 +5,17 @@ function solution(s, n) {
             // 대문자
             if(65 <= s[i].charCodeAt() && s[i].charCodeAt() <= 90){
                 s[i].charCodeAt() + n > 90? 
-                    s[i] = String.fromCharCode(s[i].charCodeAt() + n - 26) : 
-                    s[i] = String.fromCharCode(s[i].charCodeAt() + n);
+                    s[i] = s[i].charCodeAt() + n - 26 : s[i] = s[i].charCodeAt() + n;
             } 
             // 소문자
             else if(97 <= s[i].charCodeAt() && s[i].charCodeAt() <= 122){
                 s[i].charCodeAt() + n > 122? 
-                    s[i] = String.fromCharCode(s[i].charCodeAt() + n - 26) : 
-                    s[i] = String.fromCharCode(s[i].charCodeAt() + n);
+                    s[i] = s[i].charCodeAt() + n - 26 : s[i] = s[i].charCodeAt() + n;
             }
         }
     }
-    return s.join("");
+    return s.map(a => a != " "? String.fromCharCode(a) : " ").join("");
 }
-
 
 // 다른 사람의 풀이 중 아스키코드를 사용하지 않는 방법
 function solution(s, n) {
