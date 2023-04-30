@@ -96,3 +96,4 @@
 |[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98.js)|JavaScript|
 |[명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9%20(1).js)|JavaScript|
 |[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.js)|JavaScript|
+
