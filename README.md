@@ -5,7 +5,8 @@
 - [SQL 고득점 Kit](https://github.com/dmswn1004/Programmers/tree/main/SQL%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit#readme) 🔎 MySQL
 - [코딩테스트 고득점 Kit](https://github.com/dmswn1004/Programmers/tree/main/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%A0%EB%93%9D%EC%A0%90%20Kit#readme) 🔎 Python3 
 - [Level 0](#%EF%B8%8F-level-0) 🔎 JAVA
-- [Level 1](#-level-1) 🔎 Python3
+- [Level 1](#-level-1) 🔎 Python3, JavaScript
+- [Level 2](#-level-2) 🔎 JavaScript
 
 <br>
 
@@ -97,3 +98,18 @@
 |[명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9%20(1).js)|JavaScript|
 |[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%B6%94%EC%96%B5%20%EC%A0%90%EC%88%98.js)|JavaScript|
 
+<br>
+
+## 💚 Level 2
+|   **📝 문제**   |   **🛠️ 풀이**   | **💡 언어** |
+|:--------------:|:-------------:|:-------:|
+|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.js)|JavaScript|
+|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)|JavaScript|
+|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)|JavaScript|
+|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.js)|JavaScript|
+|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.js)|JavaScript|
+|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.js)|JavaScript|
+|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.js)|JavaScript|
+|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.js)|JavaScript|
+|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.js)|JavaScript|
+|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%B9%B4%ED%8E%AB.js)|JavaScript|
