@@ -115,3 +115,4 @@
 |[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.js)|JavaScript|
 |[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%B9%B4%ED%8E%AB.js)|JavaScript|
 |[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.js)|JavaScript|
+|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.js)|JavaScript|
