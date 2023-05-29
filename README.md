@@ -120,3 +120,4 @@
 |[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C.js)|JavaScript|
 |[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.js)|JavaScript|
 |[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.js)|JavaScript|
+|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.js)|JavaScript|
