@@ -124,3 +124,4 @@
 |[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.js)|JavaScript|
 |[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.js)|JavaScript|
 |[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/H-Index.js)|JavaScript|
+|[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.js)|JavaScript|
