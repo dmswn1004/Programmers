@@ -127,3 +127,4 @@
 |[연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%97%B0%EC%86%8D%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%20%ED%95%A9%EC%9D%98%20%EA%B0%9C%EC%88%98.js)|JavaScript|
 |[n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.js)|JavaScript|
 |[행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.js)|JavaScript|
+|[[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.js)|JavaScript|
