@@ -130,3 +130,4 @@
 |[[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.js)|JavaScript|
 |[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EC%9D%98%EC%83%81.js)|JavaScript|
 |[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%ED%8A%9C%ED%94%8C.js)|JavaScript|
+|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.js)|JavaScript|
