@@ -100,6 +100,7 @@
 |[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98.js)|JavaScript|
 |[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%8B%A4%ED%8C%A8%EC%9C%A8.js)|JavaScript|
 |[덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0.js)|JavaScript|
+|[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0.js)|JavaScript|
 
 <br>
 
