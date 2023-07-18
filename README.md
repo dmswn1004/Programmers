@@ -135,3 +135,4 @@
 |[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%ED%95%A0%EC%9D%B8%20%ED%96%89%EC%82%AC.js)|JavaScript|
 |[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.js)|JavaScript|
 |[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.js)|JavaScript|
+|[뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_2(JS)/%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.js)|JavaScript|
