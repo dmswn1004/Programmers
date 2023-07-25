@@ -103,6 +103,7 @@
 |[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0.js)|JavaScript|
 |[다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.js)|JavaScript|
 |[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.js)|JavaScript|
+|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.js)|JavaScript|
 <br>
 
 ## 💚 Level 2
