@@ -108,6 +108,7 @@
 |[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%B2%B4%EC%9C%A1%EB%B3%B5.js)|JavaScript|
 |[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.js)|JavaScript|
 |[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%98%EB%88%84%EA%B8%B0.js)|JavaScript|
+|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90.js)|JavaScript|
 <br>
 
 ## 💚 Level 2
