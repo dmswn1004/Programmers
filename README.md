@@ -106,6 +106,7 @@
 |[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D.js)|JavaScript|
 |[옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%98%B9%EC%95%8C%EC%9D%B4%20(2).js)|JavaScript|
 |[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%B2%B4%EC%9C%A1%EB%B3%B5.js)|JavaScript|
+|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.js)|JavaScript|
 <br>
 
 ## 💚 Level 2
