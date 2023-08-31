@@ -111,6 +111,7 @@
 |[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%8C%80%EC%B6%A9%20%EB%A7%8C%EB%93%A0%20%EC%9E%90%ED%8C%90.js)|JavaScript|
 |[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8.js)|JavaScript|
 |[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.js)|JavaScript|
+|[키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.js)|JavaScript|
 <br>
 
 ## 💚 Level 2
