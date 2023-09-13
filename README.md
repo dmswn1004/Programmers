@@ -116,6 +116,7 @@
 |[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)|JavaScript|
 |[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0.js)|JavaScript|
 |[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%20%EC%A0%95%EB%A6%AC.js)|JavaScript|
+|[인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370#)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.js)|JavaScript|
 <br>
 
 ## 💚 Level 2
