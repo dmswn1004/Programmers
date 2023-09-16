@@ -118,6 +118,7 @@
 |[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%20%EC%A0%95%EB%A6%AC.js)|JavaScript|
 |[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370#)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.js)|JavaScript|
 |[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC.js)|JavaScript|
+|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)|[JS 풀이](https://github.com/dmswn1004/Programmers/blob/main/Level_1(JS)/%EA%B3%B5%EC%9B%90%20%EC%82%B0%EC%B1%85.js)|JavaScript|
 <br>
 
 ## 💚 Level 2
